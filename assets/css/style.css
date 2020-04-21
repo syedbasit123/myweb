@@ -1961,7 +1961,7 @@ hr {
 }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
     .slider-height {
-      min-height: 600px; } }
+      min-height: 355px; } }
   @media (max-width: 767px) {
     .slider-height {
       min-height: 550px; } }
